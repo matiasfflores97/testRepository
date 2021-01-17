@@ -129,3 +129,5 @@ if(window.location.href.includes('/pages/customer-service')){
     
   })
 }
+
+console.log("Git");
